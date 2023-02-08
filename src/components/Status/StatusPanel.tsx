@@ -34,7 +34,7 @@ const StatusPanel = () => {
             Close
           </Button>
           <Button onClick={handleToClose} variant="contained" color="success" autoFocus>
-            Save
+            Saved
           </Button>
         </DialogActions>
       </Dialog>
